@@ -9,5 +9,8 @@
 - [1.两数之和](https://github.com/Yet-sun/LeetCode/blob/master/C++/1.cpp)
 - [7.整数反转](https://github.com/Yet-sun/LeetCode/blob/master/C++/7.cpp)
 - [9.回文数](https://github.com/Yet-sun/LeetCode/blob/master/C++/9.cpp)
+- [13.罗马数字转整数](https://github.com/Yet-sun/LeetCode/blob/master/C++/13.cpp)
 - [104.二叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/104.cpp)
 - [559.N叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/559.cpp)
+- [589.N叉树的前序遍历 ](https://github.com/Yet-sun/LeetCode/blob/master/C++/589.cpp)
+- [590.N叉树的后序遍历](https://github.com/Yet-sun/LeetCode/blob/master/C++/590.cpp)
