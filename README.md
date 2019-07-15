@@ -6,4 +6,8 @@
 - 欢迎大家批评指正━(*｀∀´*)ノ亻!
 
 ## 已解题目 ##
-- [1.Two Sum](https://github.com/Yet-sun/LeetCode/blob/master/C++/1.cpp)
+- [1.两数之和](https://github.com/Yet-sun/LeetCode/blob/master/C++/1.cpp)
+- [7.整数反转](https://github.com/Yet-sun/LeetCode/blob/master/C++/7.cpp)
+- [9.回文数](https://github.com/Yet-sun/LeetCode/blob/master/C++/9.cpp)
+- [104.二叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/104.cpp)
+- [559.N叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/559.cpp)
