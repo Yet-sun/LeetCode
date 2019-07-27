@@ -19,6 +19,7 @@
 - [104.二叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/104.cpp)
 - [121.买卖股票的最佳时机](https://github.com/Yet-sun/LeetCode/blob/master/C++/121.cpp)
 - [206.反转链表](https://github.com/Yet-sun/LeetCode/blob/master/C++/206.cpp)
+- [226.翻转二叉树](https://github.com/Yet-sun/LeetCode/blob/master/C++/226.cpp)
 - [257.二叉树的所有路径](https://github.com/Yet-sun/LeetCode/blob/master/C++/257.cpp)
 - [344.反转字符串](https://github.com/Yet-sun/LeetCode/blob/master/C++/344.cpp)
 - [559.N叉树的最大深度](https://github.com/Yet-sun/LeetCode/blob/master/C++/559.cpp)
